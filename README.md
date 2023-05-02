@@ -3,4 +3,4 @@ Optimization Techniques for Machine Learning Courses - ENSEA
 
 
 ### Git & GitHub Overview
-![](0. Miscellaneous/Gradient.gif)
+![](./0.%20Miscellaneous/Gradient.gif)
