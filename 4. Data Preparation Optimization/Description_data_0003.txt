@@ -1,4 +1,4 @@
-1. TItle: Horse Colic database - TEST
+1. TItle: Horse Colic database
 
 2. Source Information
    -- Creators: Mary McLeish & Matt Cecile
